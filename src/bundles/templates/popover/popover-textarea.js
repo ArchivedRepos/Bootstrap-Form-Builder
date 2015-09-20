@@ -1,2 +1,0 @@
-export default `<label class='control-label'> <%- label %> </label>
-<textarea class="field" data-type="<%- type %>" style='min-height: 200px' id='<%- name %>'><%- value %></textarea>`;
